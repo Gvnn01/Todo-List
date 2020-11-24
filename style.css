@@ -1,0 +1,38 @@
+body {
+  background: rgb(18, 51, 23);
+}
+input {
+  background: #ffffff;
+  color: black;
+  border: 2px solid whitesmoke;
+  font-family: Roboto;
+  border-radius: 5px;
+  height: 20px;
+}
+button {
+  background: #2c2409;
+  border-radius: 5px;
+  color: white;
+  font-family: Avenir light;
+  border: 1px solid white;
+  height: 27px;
+}
+li {
+  background: rgba(250, 202, 244, 0.1);
+  padding: 5px;
+  font-family: Sacramento Regular;
+  font-size: 23px;
+  color: white;
+  margin-bottom: 7px;
+  border-radius: 20px;
+}
+a {
+  margin-left: 10px;
+  font-family: Roboto;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+#marcked {
+  display: none;
+}
